@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Andrew 👋
 
-<!--
-**KBroneZ/KBroneZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build automations for Excel, VBA, PowerShell and APIs, and the checks that tell you when they break: data contracts, golden-file comparisons, run logs and stable exit codes.
 
-Here are some ideas to get you started:
+#### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SteadyLatch**: reliable Excel and API automation. The Automation Reliability Kit runs a macro on a copy of the workbook with a time limit, ends only its own Excel process, and compares the result with an approved golden output, cell by cell.
+- **Guides**: tested, step-by-step fixes for problems that waste hours: macros that hang, `RefreshAll` that saves old data, Excel processes that never close, Task Scheduler reporting success on a failed script.
+
+#### Try it
+
+- 🔎 Public demo: [excel-vba-regression-testing-demo](https://github.com/KBroneZ/excel-vba-regression-testing-demo)
+- 📘 Guides: [steadylatch.com/guides](https://steadylatch.com/guides/)
+- 🎬 4-minute demo: [steadylatch.com/#demo](https://steadylatch.com/#demo)
+
+#### Let's connect
+
+[![Website](https://img.shields.io/badge/steadylatch.com-1f6f43?style=flat)](https://steadylatch.com/)
+[![Email](https://img.shields.io/badge/hello%40steadylatch.com-555?style=flat&logo=maildotru&logoColor=white)](mailto:hello@steadylatch.com)
